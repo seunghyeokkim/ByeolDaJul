@@ -28,7 +28,7 @@
 
 **3. 기술 스택**
 
-아이콘 수정하기
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1710902914472?alt=media&token=30fa6a40-b6d7-460a-89b6-8e9d50194703)](https://github.com/msdio/stackticon)
 
 ---
 
