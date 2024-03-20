@@ -54,6 +54,8 @@
 
 - Koalphaca
 
+https://github.com/Beomi/KoAlpaca.git
+
 ![8](https://github.com/seunghyeokkim/ByeolDaJul/assets/140465121/c8fb7120-e39e-4886-ae6d-9ebebadfb22a)
 
 ---
